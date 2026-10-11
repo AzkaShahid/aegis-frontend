@@ -31,7 +31,7 @@ Aegis is a full-stack AI application that lets users upload PDF documents, ask q
 - AsyncPG
   
 ### Screenshots
-
+(./Aegis-ss-1.png)
 
 ### AI and Retrieval
 - Ollama
